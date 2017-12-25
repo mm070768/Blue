@@ -1,7 +1,7 @@
 # Blue
 Blue Core integration/staging tree  
 What is Blue?
-Blue is an experimental digital currency that aims at funding the development of a worlwide Blue economy (see http://www.theblueeconomy.org/). 
+Blue is an experimental digital currency that aims at funding the development of a wordlwide Blue economy (see http://www.theblueeconomy.org/), a concept pioneered by Gunter Pauli. 
 Blue is ERC20 compatible Crypto currency using the Bitcoin derived technology known as blockchain, 
 it uses peer-to-peer technology to operate with no central authority : managing transactions 
 and issuing money are carried out collectively by the network. 
